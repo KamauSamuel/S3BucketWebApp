@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wtYBODgYhTcb4+3bTlOw8axSWqZcOTsDqlu/BAKclAQ=",
+  "Source": "S3BucketwithAuth",
+  "BasePath": "_content/S3BucketwithAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
